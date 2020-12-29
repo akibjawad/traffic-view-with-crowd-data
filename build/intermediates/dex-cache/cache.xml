@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\fca9059254cbe6c803ef9a0cd0988a457c2307ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_30c1e59cf1f879718401e5c5f8d52b4e42c608b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tomal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f311da768b152cb5eece75a42a9b8f1f5f4e07f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\fb6c002b3f5146d81337709e65bb7b94b8906866\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_22c25bade7c6a5d5087f6fd14f8c21b079797862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\762ba0a6781d1fc9b0ce6d3059bddb7ce2b2cd6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_d6a26095e29a14792bc25fc96ea4c6c6915ad8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\d82c446da228f6c4f41e0c304ad8b479ac4c5cf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_8610ec608cdd11e70ff6d93ad82a1685d5ce86c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\bfc2316cd160c853c495f0f95f5ea7f1cbd2770d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_b81bef078bc678c369d70d0ba17362e6d4f01b61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tomal\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2640d2fd12b11792139021485f816745dfede16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\87f890f33379e10f9a812453dd8fb17fbf32833f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_b12f4b349feea80d75212449f96a09408b1c887b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\794e13dcb3897dd7608f9c58d0686515d1a1b5f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_3413b8f871b65fd1bfc7efcc339b2395f3a0c75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8ffd295582d7862df9262794e136f8b9a8e9fdd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_b904d3ac1adee85946cc848f10fc157f73f2cb44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Map2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Map2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c37ad38627e1a03bbf7daf02e354aef0844ba5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\78615cfddc9c0b3810fe12fa28bde129950db972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_e3febb6c8a5c28a982eed5724283796eb99a9df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\df6d7539447e28861d4cb31f7a5e9010f3ccb577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_33faeadd24cd7b09657877497add7b6a62d5d228.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Map2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9181a17419da32c8aa7812332d189ec09d06b142">
+        <dex dex="D:\Map2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33773ce9d666c4e400d15a374409c378cd093254\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\70120571473fba488f7b8296b68c31cb4e704505\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_c83222c97cdf12c295fa5e4c22e1d9cf42adfca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\053831fb3bfd65611b05a17987a5f9b70d63f519\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_925fcd943edcc62bfbdb4635185635911080fdfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\74df42b51673c9f8b21c7625a01a970d5a636c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_3f1690302daea2377f71f61050ff4bc6a6ca7cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ac190819b1b53fac0bea81b105caea96922c6444\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_3e2376577acd03f3147e1b4a58bed0c8637443a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\ca8eefc3b94f863e69bd12d140cc6b35c36ea63f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Map2\app\build\intermediates\pre-dexed\debug\classes_568e54387c4822de781d6a7f4a0883bfac170cb7.jar" />
+    </item>
+
+</items>
